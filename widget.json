@@ -7,7 +7,7 @@
     {
       "kind": "main",
       "tag": "custom-table-widget",
-      "url": "widget.js",
+      "url": "https://raw.githubusercontent.com/Abdwarwar/Table-Widget/refs/heads/main/widget.js",
       "integrity": "sha256-ba4e4c3e6d198526072d55abef303ae684a88457098fc4bf6f89e7f55abfface"
     }
   ],
