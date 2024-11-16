@@ -1,0 +1,23 @@
+.custom-table-widget {
+  font-family: Arial, sans-serif;
+}
+
+.custom-table-widget h2 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.custom-table-widget table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.custom-table-widget th, .custom-table-widget td {
+  padding: 8px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+.custom-table-widget th {
+  background-color: #f2f2f2;
+}

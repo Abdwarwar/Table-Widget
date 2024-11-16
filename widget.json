@@ -1,0 +1,25 @@
+{
+  "name": "CustomTableWidget",
+  "id": "com.example.CustomTableWidget",
+  "version": "1.0.0",
+  "newInstancePrefix": "CTW",
+  "webcomponents": [
+    {
+      "kind": "main",
+      "tag": "custom-table-widget",
+      "url": "widget.js",
+      "integrity": "sha256-ba4e4c3e6d198526072d55abef303ae684a88457098fc4bf6f89e7f55abfface"
+    }
+  ],
+  "properties": {
+    "title": {
+      "type": "string",
+      "default": "Custom Table Widget"
+    },
+    "dataModel": {
+      "type": "string"
+    }
+  },
+  "methods": {},
+  "events": {}
+}
